@@ -11,9 +11,10 @@
 
 -----
 
-:computer: **Software Engineer**  
-:eyeglasses: **Hardcore Geek (is geek still used?)**  
-:oncoming_automobile: **SpaceX, technology, and simulator fan**  
+💻 **Software Engineering Student**
+🎨 **Graphic Designer | Digital Artist | Animator**
+🎮 **Game Developer | World Builder | Fantasy Writer**
+🚀 **Passionate about Programming, AI, and Interactive Experiences**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
